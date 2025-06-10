@@ -1,4 +1,4 @@
-module proto
+module github.com/barma/protobuf
 
 go 1.24.2
 
